@@ -12,6 +12,17 @@
 		1C3D30DE86033C9682B0102E /* PrivacyInfo.xcprivacy in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB81A68108700A75B9A /* PrivacyInfo.xcprivacy */; };
 		761780ED2CA45674006654EE /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 761780EC2CA45674006654EE /* AppDelegate.swift */; };
 		81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */; };
+		3E7F5970179C4E2698AFB205 /* NunitoSans.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 4B9268CEA8BF44EC9ABCA5E6 /* NunitoSans.ttf */; };
+		56D5C4E632C748A88063C0C6 /* Quicksand-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 85E1FAE64560489986B87137 /* Quicksand-Bold.ttf */; };
+		317E40BCE4614E9DA5B32D0F /* InterTight-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = EC7C3810559548F88086204F /* InterTight-Bold.ttf */; };
+		F2341BBB6CA3484299AD71DB /* Quicksand-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 504136D4202D44888D666794 /* Quicksand-Medium.ttf */; };
+		08B47BBAF0E742FCB3D24440 /* InterTight-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = C640A1311BB843D3B23A6F12 /* InterTight-Medium.ttf */; };
+		A674F21B822B44AA9B0C93BA /* InterTight-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 14ED5513C2FE498B84E87F67 /* InterTight-Regular.ttf */; };
+		F91348216FF0421FA52A89F7 /* Quicksand-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = A4084EEC75F341D88545E6D5 /* Quicksand-Regular.ttf */; };
+		7B146CB18BB44C79895D44B5 /* NunitoSans-Italic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 91EFCE0A0DC040BBB77B2490 /* NunitoSans-Italic.ttf */; };
+		3316D67C08FF49519549F237 /* TiroDevanagariHindi-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 9A1CB1D159A54F4D97F8D48B /* TiroDevanagariHindi-Regular.ttf */; };
+		B60FDDCBB9E34D929BB42BBE /* Quicksand-VariableFont_wght.ttf in Resources */ = {isa = PBXBuildFile; fileRef = C3C456CE81C948BDAF96C66A /* Quicksand-VariableFont_wght.ttf */; };
+		7FFD1672060F4640A28059B3 /* TiroDevanagariHindi-Italic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 8024FB3C660442A591D010FC /* TiroDevanagariHindi-Italic.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,6 +36,17 @@
 		761780EC2CA45674006654EE /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = AppDelegate.swift; path = pvkcomplex/AppDelegate.swift; sourceTree = "<group>"; };
 		81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = LaunchScreen.storyboard; path = pvkcomplex/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		ED297162215061F000B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
+		4B9268CEA8BF44EC9ABCA5E6 /* NunitoSans.ttf */ = {isa = PBXFileReference; name = "NunitoSans.ttf"; path = "../assets/fonts/NunitoSans.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		85E1FAE64560489986B87137 /* Quicksand-Bold.ttf */ = {isa = PBXFileReference; name = "Quicksand-Bold.ttf"; path = "../assets/fonts/Quicksand-Bold.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		EC7C3810559548F88086204F /* InterTight-Bold.ttf */ = {isa = PBXFileReference; name = "InterTight-Bold.ttf"; path = "../assets/fonts/InterTight-Bold.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		504136D4202D44888D666794 /* Quicksand-Medium.ttf */ = {isa = PBXFileReference; name = "Quicksand-Medium.ttf"; path = "../assets/fonts/Quicksand-Medium.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		C640A1311BB843D3B23A6F12 /* InterTight-Medium.ttf */ = {isa = PBXFileReference; name = "InterTight-Medium.ttf"; path = "../assets/fonts/InterTight-Medium.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		14ED5513C2FE498B84E87F67 /* InterTight-Regular.ttf */ = {isa = PBXFileReference; name = "InterTight-Regular.ttf"; path = "../assets/fonts/InterTight-Regular.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		A4084EEC75F341D88545E6D5 /* Quicksand-Regular.ttf */ = {isa = PBXFileReference; name = "Quicksand-Regular.ttf"; path = "../assets/fonts/Quicksand-Regular.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		91EFCE0A0DC040BBB77B2490 /* NunitoSans-Italic.ttf */ = {isa = PBXFileReference; name = "NunitoSans-Italic.ttf"; path = "../assets/fonts/NunitoSans-Italic.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		9A1CB1D159A54F4D97F8D48B /* TiroDevanagariHindi-Regular.ttf */ = {isa = PBXFileReference; name = "TiroDevanagariHindi-Regular.ttf"; path = "../assets/fonts/TiroDevanagariHindi-Regular.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		C3C456CE81C948BDAF96C66A /* Quicksand-VariableFont_wght.ttf */ = {isa = PBXFileReference; name = "Quicksand-VariableFont_wght.ttf"; path = "../assets/fonts/Quicksand-VariableFont_wght.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		8024FB3C660442A591D010FC /* TiroDevanagariHindi-Italic.ttf */ = {isa = PBXFileReference; name = "TiroDevanagariHindi-Italic.ttf"; path = "../assets/fonts/TiroDevanagariHindi-Italic.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -75,6 +97,7 @@
 				83CBBA001A601CBA00E9B192 /* Products */,
 				2D16E6871FA4F8E400B85C8A /* Frameworks */,
 				BBD78D7AC51CEA395F1C20DB /* Pods */,
+				80FB519B94A54F2ABF5ADF05 /* Resources */,
 			);
 			indentWidth = 2;
 			sourceTree = "<group>";
@@ -97,6 +120,25 @@
 			);
 			path = Pods;
 			sourceTree = "<group>";
+		};
+		80FB519B94A54F2ABF5ADF05 /* Resources */ = {
+			isa = "PBXGroup";
+			children = (
+				4B9268CEA8BF44EC9ABCA5E6 /* NunitoSans.ttf */,
+				85E1FAE64560489986B87137 /* Quicksand-Bold.ttf */,
+				EC7C3810559548F88086204F /* InterTight-Bold.ttf */,
+				504136D4202D44888D666794 /* Quicksand-Medium.ttf */,
+				C640A1311BB843D3B23A6F12 /* InterTight-Medium.ttf */,
+				14ED5513C2FE498B84E87F67 /* InterTight-Regular.ttf */,
+				A4084EEC75F341D88545E6D5 /* Quicksand-Regular.ttf */,
+				91EFCE0A0DC040BBB77B2490 /* NunitoSans-Italic.ttf */,
+				9A1CB1D159A54F4D97F8D48B /* TiroDevanagariHindi-Regular.ttf */,
+				C3C456CE81C948BDAF96C66A /* Quicksand-VariableFont_wght.ttf */,
+				8024FB3C660442A591D010FC /* TiroDevanagariHindi-Italic.ttf */,
+			);
+			name = Resources;
+			sourceTree = "<group>";
+			path = "";
 		};
 /* End PBXGroup section */
 
@@ -161,6 +203,17 @@
 				81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */,
 				13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */,
 				1C3D30DE86033C9682B0102E /* PrivacyInfo.xcprivacy in Resources */,
+				3E7F5970179C4E2698AFB205 /* NunitoSans.ttf in Resources */,
+				56D5C4E632C748A88063C0C6 /* Quicksand-Bold.ttf in Resources */,
+				317E40BCE4614E9DA5B32D0F /* InterTight-Bold.ttf in Resources */,
+				F2341BBB6CA3484299AD71DB /* Quicksand-Medium.ttf in Resources */,
+				08B47BBAF0E742FCB3D24440 /* InterTight-Medium.ttf in Resources */,
+				A674F21B822B44AA9B0C93BA /* InterTight-Regular.ttf in Resources */,
+				F91348216FF0421FA52A89F7 /* Quicksand-Regular.ttf in Resources */,
+				7B146CB18BB44C79895D44B5 /* NunitoSans-Italic.ttf in Resources */,
+				3316D67C08FF49519549F237 /* TiroDevanagariHindi-Regular.ttf in Resources */,
+				B60FDDCBB9E34D929BB42BBE /* Quicksand-VariableFont_wght.ttf in Resources */,
+				7FFD1672060F4640A28059B3 /* TiroDevanagariHindi-Italic.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "240822268499",
+    "project_id": "pvkcomplex-9c9a7",
+    "storage_bucket": "pvkcomplex-9c9a7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:240822268499:android:50b3da8c23b6f987b0cca6",
+        "android_client_info": {
+          "package_name": "com.pvkcomplex"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUMLiJQADerMgIfjEG30slrUhGVi5ZwgU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
