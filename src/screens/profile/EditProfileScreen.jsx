@@ -38,12 +38,12 @@ export default function EditProfileScreen() {
   const [uploadProgress, setUploadProgress] = useState(0);
 
   const rankOptions = [
-    { label: 'Brigadier', value: 'Brigadier' },
-    { label: 'Colonel', value: 'Colonel' },
-    { label: 'Lieutenant Colonel', value: 'Lieutenant Colonel' },
-    { label: 'Major', value: 'Major' },
-    { label: 'Captain', value: 'Captain' },
     { label: 'Lieutenant', value: 'Lieutenant' },
+    { label: 'Captain', value: 'Captain' },
+    { label: 'Major', value: 'Major' },
+    { label: 'Lieutenant Colonel', value: 'Lieutenant Colonel' },
+    { label: 'Colonel', value: 'Colonel' },
+    { label: 'Brigadier', value: 'Brigadier' },
   ];
 
   const [userData, setUserData] = useState({
@@ -285,9 +285,9 @@ export default function EditProfileScreen() {
         <Text style={styles.label}>Mobile</Text>
         <InputField label="Mobile" value={userData.mobile} editable={false} />
 
-        <Text style={styles.label}>Block</Text>
+        <Text style={styles.label}>Course</Text>
         <InputField
-          label="Block"
+          label="Course"
           value={userData.block}
           onChangeText={val => setUserData({ ...userData, block: val })}
         />

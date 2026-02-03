@@ -70,7 +70,7 @@ export default function RwaAdvisory() {
 
   return (
     <SafeAreaView style={styles.container}>
-      <CustomHeader headername="RWA Advisory" />
+      <CustomHeader headername="PVK Advisory" />
 
       {loading ? (
         <ActivityIndicator
@@ -94,7 +94,7 @@ export default function RwaAdvisory() {
             />
           }
           ListEmptyComponent={
-            <Text style={styles.noData}>No RWA Advisory Available.</Text>
+            <Text style={styles.noData}>No PVK Advisory Available.</Text>
           }
         />
       )}

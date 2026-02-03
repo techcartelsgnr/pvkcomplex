@@ -84,7 +84,7 @@ export default function ProfileScreen() {
             <InfoRow label="Rank" value={rank} />
             <InfoRow label="Unit" value={unit} />
             <InfoRow label="Mobile" value={mobile} />
-            <InfoRow label="Block" value={block} />
+            <InfoRow label="Course" value={block} />
             <InfoRow label="Quarter No" value={qtr_no} />
           </View>
 

@@ -28,12 +28,12 @@ export default function RegisterScreen() {
 
   // Rank list
   const rankOptions = [
-    { label: 'Brigadier', value: 'Brigadier' },
-    { label: 'Colonel', value: 'Colonel' },
-    { label: 'Lieutenant Colonel', value: 'Lieutenant Colonel' },
-    { label: 'Major', value: 'Major' },
-    { label: 'Captain', value: 'Captain' },
     { label: 'Lieutenant', value: 'Lieutenant' },
+    { label: 'Captain', value: 'Captain' },
+    { label: 'Major', value: 'Major' },
+    { label: 'Lieutenant Colonel', value: 'Lieutenant Colonel' },
+    { label: 'Colonel', value: 'Colonel' },
+    { label: 'Brigadier', value: 'Brigadier' },
   ];
 
   const [rank, setRank] = useState(rankOptions[0].value);
@@ -149,9 +149,9 @@ export default function RegisterScreen() {
           />
 
           {/* Block */}
-          <Text style={styles.label}>Block</Text>
+          <Text style={styles.label}>Course</Text>
           <InputField
-            label="Enter Block"
+            label="Enter Course"
             value={block}
             onChangeText={setBlock}
           />

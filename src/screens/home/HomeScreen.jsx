@@ -41,7 +41,7 @@ export default function HomeScreen() {
     { name: 'MES Complaint Manager', icon: Wrench, screen: 'MesComplaints' },
     { name: 'Announcements', icon: Megaphone, screen: 'AnnouncementsScreen' },
     { name: 'Events', icon: Calendar, screen: 'EventScreen' },
-    { name: 'RWA Advisory', icon: CircleChevronRight, screen: 'RwaAdvisory' },
+    { name: 'PVK Advisory', icon: CircleChevronRight, screen: 'RwaAdvisory' },
   ];
 
   const handlePress = screen => {

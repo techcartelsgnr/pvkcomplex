@@ -28,7 +28,7 @@ export default function RwaAdvisoryDetail() {
 
   return (
     <SafeAreaView style={styles.container}>
-      <CustomHeader headername={title || 'RWA Advisory Details'} />
+      <CustomHeader headername={title || 'PVK Advisory Details'} />
 
       {/* Show Image */}
       {isImage && (
